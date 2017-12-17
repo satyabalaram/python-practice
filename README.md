@@ -11,8 +11,7 @@ POP would be a simple palindrome. Poop would also be a palindrome. You need to d
 #test cases to test all possible input
 #complexity of the function big O
 #logic using Brute force approach with O(mx2^m) time complexity, where m is the size of the word. He told me to optimize it. 
-#We will keep track of the counts of each character in the word. If the length of the word is even and
-# if all characters appears even number of times, a palindrome can be formed.
+#We will keep track of the counts of each character in the word. If the length of the word is even and if all characters appears even number of times, a palindrome can be formed.
 #Similarly, if the length of the string is odd and all characters but one appear even number of times then Palindrome can be formed.
 #Else in all other cases Palindrome wont exist in the word. He seemed to be satisfied with my approach and told me to write the full code.
 
