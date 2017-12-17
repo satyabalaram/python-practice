@@ -15,7 +15,8 @@ POP would be a simple palindrome. Poop would also be a palindrome. You need to d
 #Similarly, if the length of the string is odd and all characters but one appear even number of times then Palindrome can be formed.
 #Else in all other cases Palindrome wont exist in the word. He seemed to be satisfied with my approach and told me to write the full code.
 
-5.#Given a string s consists of upper/lower-case alphabets and empty space characters ' ', return the length of last word in the string.
+
+5. #Given a string s consists of upper/lower-case alphabets and empty space characters ' ', return the length of last word in the string.
 #If the last word does not exist, return 0.
 #Note: A word is defined as a character sequence consists of non-space characters only.
 #Example:
